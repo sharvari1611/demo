@@ -59,7 +59,7 @@ past two weeks into both databases, so your first Power BI visuals have
 something interesting to show before you start clicking around live.
 
 ## 4. Connect Power BI
-
+     
 You have two complementary options — most people want both: an
 import/DirectQuery model for real reports, and the streaming push for a
 tile that visibly ticks up the moment an order comes in.
